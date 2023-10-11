@@ -1,5 +1,5 @@
 # cruiseBooking-App
-First year project at UWC
+This was my first year project for computer science at UWC
 
 I was tasked with creating a cruise bookking app. I originally had a few ideas as to what i wanted the app to do
 The main goal being an application that allows users to book a cruise and customize it to suit their personal needs
