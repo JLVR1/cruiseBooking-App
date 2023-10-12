@@ -6,3 +6,5 @@ The main goal being an application that allows users to book a cruise and custom
 It is a very simple application that collects data and prints said data to a file specified in the code.
 
 [COS101_4069341_project.pptx](https://github.com/JLVR1/cruiseBooking-App/files/12880540/COS101_4069341_project.pptx)
+
+website with PowerPoint and video of the app: https://sites.google.com/myuwc.ac.za/cruise-booking-application/ 
